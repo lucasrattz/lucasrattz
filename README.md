@@ -10,14 +10,16 @@
       </a>
    </div>
    <img src="https://komarev.com/ghpvc/?username=lucasrattz&style=flat-square&color=blue" alt=""/>
+   
    ***
-   ## DevOps Engineer, Information Systems student
+   
+   ##DevOps Engineer, Information Systems student
    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. 
    <br/><sub>– Antoine de Saint-Exupéry</sub>
    <br/>
    <br/>
    <br/>
-   ### Tech Stack
+   ###Tech Stack
    <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="32"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"  title="Java" alt="Java" width="32"/>&nbsp;
