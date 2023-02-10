@@ -1,7 +1,7 @@
 <div id="header" align="center">
-<img alt="Made by PixelJeff" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=2000&pause=1000&color=00a99d&center=true&vCenter=true&repeat=false&width=499&lines=Hi%2C+I'm+Lucas+Rattz!+Welcome+to+my+GitHub." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=2000&pause=1000&color=00a99d&center=true&vCenter=true&repeat=false&width=499&lines=Hi%2C+I'm+Lucas+Rattz!+Welcome+to+my+GitHub." alt="Typing SVG" />
 
-<img src="https://i.imgur.com/lQEn9G7.gif"/>
+<img alt="Made by PixelJeff" src="https://i.imgur.com/lQEn9G7.gif"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/lucasrattz">
