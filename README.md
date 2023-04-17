@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/lucasrattz">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://registry.jsonresume.org/lucasrattz">
+    <a href="https://drive.google.com/file/d/1ZI2VB5SMOxKgO2UF7inEDzv2B1wBVcQE/view?usp=share_link">
       <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge"/>
     </a>
   </div>
