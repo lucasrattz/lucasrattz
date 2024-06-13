@@ -20,23 +20,20 @@
   <br/>
   <br/>
  
- ### Tech Stack
+ ### Some tools I like working with
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"  title="Go" alt="Go" width="32"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="32"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="32"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="32"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="32"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="32"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="32"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="32"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="32"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform
+    " width="32"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"  title="Kubernetes" alt="Kubernetes" width="32"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="32"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="32"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="32"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="32"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="32"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="32"/>
-    <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/proxmox.svg" title="Proxmox" alt="Proxmox" width="32"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="32"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="32"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="32"/>
   </div>
 <br/>  
 </div>
