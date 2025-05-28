@@ -31,7 +31,7 @@
     " width="32"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="32"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="32"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="32"/>
+    <img src="https://assets.dataprovider.com/img/recipe/1663760278_hetzner.png" title="Hetzner" alt="Hetzner" width="32"/>
   </div>
 <br/>  
 </div>
