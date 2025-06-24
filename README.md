@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=lucasrattz&style=flat-square&color=blue" alt=""/>
  
-  ## DevOps Engineer, Information Systems student
+  ## DevOps/Platform Engineer, Kubernetes Enjoyer
  Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. 
   <br/><sub>– Antoine de Saint-Exupéry</sub>
   <br/>
